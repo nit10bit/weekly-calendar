@@ -1,1 +1,1 @@
-# weekly-calendar
+# Weekly calendar
